@@ -7,10 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
-		
-		System.out.println("*** Given a number, show all the odds from 1 to the number ***");
-		System.out.println();
-		
+				
 		System.out.print("Enter the final number: ");
 		int last = scanner.nextInt();
 		for(int i = 1; i <=last; i++) {

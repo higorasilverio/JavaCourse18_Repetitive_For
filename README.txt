@@ -1,0 +1,1 @@
+Given a number, show all the odds from 1 to the number.
